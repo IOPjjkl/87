@@ -1,7 +1,7 @@
 import json
 import logging
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo, Message
+from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebhookInfo, Message
 from aiogram.filters import Command
 import asyncio
 
